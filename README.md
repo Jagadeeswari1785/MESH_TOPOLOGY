@@ -1,4 +1,4 @@
-## MESH TOPOLOGY USING CISCO PACKET TRACER
+<img width="685" height="356" alt="image" src="https://github.com/user-attachments/assets/422024d7-6bf7-4831-892e-e1a6be2aa5fc" />## MESH TOPOLOGY USING CISCO PACKET TRACER
 # 1. Introduction
 A Mesh Topology is a network structure in which every networking device is connected directly to every other device. It provides multiple communication paths, ensuring high reliability and uninterrupted communication.
 Mesh topology is commonly used in communication systems because it provides:
@@ -23,6 +23,11 @@ There are two types of mesh topology:
 Full Mesh Topology 
 Partial Mesh Topology 
 In this project, a Full Mesh Topology is implemented using switches and PCs.
+
+
+<img width="685" height="356" alt="image" src="https://github.com/user-attachments/assets/3aa70ae2-645e-49b2-818a-092e31e74653" />
+<img width="692" height="370" alt="image" src="https://github.com/user-attachments/assets/2fb5e5d1-44a8-49b1-8cd5-03cba26cab43" />
+
 
 
 # 3. Network Design
